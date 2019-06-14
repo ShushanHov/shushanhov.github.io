@@ -26,7 +26,7 @@ body {
   -ms-flex: 1;
   flex: 1;
   padding: 10px;
-  height: 800px; /* Should be removed. Only for demonstration */
+  height: 700px; /* Should be removed. Only for demonstration */
 }
 
 /* Style the footer */
